@@ -1,4 +1,4 @@
-# Excel Data Quality Assessment
+# Day 1- Excel Data Quality Assessment
 
 ## Objective
 To understand the Olist e-commerce dataset and perform initial data quality checks using Excel.
