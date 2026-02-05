@@ -18,4 +18,4 @@ Olist Brazilian E-commerce Public Dataset
 - GitHub
 
 ## Status
-Project setup completed. Data quality analysis will be done incrementally.
+Week 1- Day 1- Project setup completed. Data quality analysis will be done incrementally.
